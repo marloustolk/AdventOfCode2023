@@ -5,9 +5,9 @@ import adventofcode.util.Input
 
 object Day1 {
 
-    fun part1(): Int = findCalibrations(input)
+    fun part1Day1(): Int = findCalibrations(input)
 
-    fun part2(): Int = findCalibrations(input.map { addNumbers(it) })
+    fun part2Day1(): Int = findCalibrations(input.map { addNumbers(it) })
 
     private val input = FileReader.read(1, Input.PUZZLE)
 
