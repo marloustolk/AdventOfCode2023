@@ -6,6 +6,8 @@ import adventofcode.Day3.part1Day3
 import adventofcode.Day3.part2Day3
 import adventofcode.Day4.part1Day4
 import adventofcode.Day4.part2Day4
+import adventofcode.Day5.part1Day5
+import adventofcode.Day5.part2Day5
 
 
 fun main() {
@@ -14,4 +16,5 @@ fun main() {
     println("day2: ${part1Day2()} & ${part2Day2()}")
     println("day3: ${part1Day3()} & ${part2Day3()}")
     println("day4: ${part1Day4()} & ${part2Day4()}")
+    println("day5: ${part1Day5()} & takes forever")
 }
