@@ -11,3 +11,4 @@ This year trying _*Kotlin*_!
 - day 3: [puzzle](https://adventofcode.com/2023/day/3), [my solution](./src/main/kotlin/adventofcode/Day3.kt)
 - day 4: [puzzle](https://adventofcode.com/2023/day/4), [my solution](./src/main/kotlin/adventofcode/Day4.kt)
 - day 5: [puzzle](https://adventofcode.com/2023/day/5), [my solution](./src/main/kotlin/adventofcode/Day5.kt)
+- day 6: [puzzle](https://adventofcode.com/2023/day/6), [my solution](./src/main/kotlin/adventofcode/Day6.kt)
